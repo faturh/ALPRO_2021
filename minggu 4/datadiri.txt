@@ -1,0 +1,4 @@
+anda memesan & C:/Users/fikri/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/fikri/OneDrive/Desktop/file/COOLYEAHHH/ALPRO/minggu 4/latihan22.py"
+jumlah pesanan : & C:/Users/fikri/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/fikri/OneDrive/Desktop/file/COOLYEAHHH/ALPRO/minggu 4/latihan22.py"
+total harganya : & C:/Users/fikri/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/fikri/OneDrive/Desktop/file/COOLYEAHHH/ALPRO/minggu 4/latihan22.py"==============================anda memesan lele
+jumlah pesanan : 2==============================

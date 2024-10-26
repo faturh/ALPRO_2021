@@ -1,0 +1,8 @@
+f = open("file.txt","w")
+f.write ("CONGRADUATION")
+f.close()
+f = open("file.txt","a")
+f.write (" YA!")
+f.close()
+f = open("file.txt","r")
+print(f.read())

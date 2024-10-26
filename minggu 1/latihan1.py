@@ -1,0 +1,7 @@
+print(" ISI DATA DI BAWAH INI \n")
+Name = input("Masukan nama : ")
+nim = input("Masukan NIM : ")
+Prodi = input("Masukan prodi anda :")
+print("\n")
+print(f"Nama saya adalah : {Name}\nNIM saya adalah : {nim}\nprodi saya adalah : {Prodi} ")
+print("END")
